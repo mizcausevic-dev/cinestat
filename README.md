@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Task781
 
 ![Task781 Logo](logo.png)
