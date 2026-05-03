@@ -2,15 +2,15 @@
 
 > **A React analytics dashboard visualizing personal entertainment collection data — movies, TV shows, episodes, and a ranked comedy favorites list.**
 
-Built by **[Miz Causevic](https://mizcausevic.com/skills)** as part of front-end portfolio.
+Built by **[Mirza Causevic](https://github.com/fknmiz)** as part of his professional front-end portfolio.
 
 ---
 
 ## 🖼 Preview
 
-| Light Mode | Dark Mode |
+| Dashboard — Dark Mode | Dashboard — Charts |
 |---|---|
-| *(screenshot coming soon)* | *(screenshot coming soon)* |
+| ![CineStat Dashboard Dark](./screenshots/dashboard-dark.png) | ![CineStat Dashboard Charts](./screenshots/dashboard-charts.png) |
 
 ---
 
