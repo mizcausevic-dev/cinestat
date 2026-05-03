@@ -2,7 +2,7 @@
 
 > **A React analytics dashboard visualizing personal entertainment collection data — movies, TV shows, episodes, and a ranked comedy favorites list.**
 
-Built by **[Mirza Causevic](https://github.com/fknmiz)** as part of his professional front-end portfolio.
+Built by **[Miz Causevic](https://mizcausevic.com/skills)** as part of front-end portfolio.
 
 ---
 
