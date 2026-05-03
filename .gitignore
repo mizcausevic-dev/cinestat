@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # dependencies
 /node_modules
 /.pnp
@@ -28,3 +29,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+=======
+node_modules
+dist
+.DS_Store
+*.local
+>>>>>>> c376c386f3fabc08e05ad9536f1d787ee74ba209
