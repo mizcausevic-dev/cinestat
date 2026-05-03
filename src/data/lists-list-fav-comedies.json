@@ -1,0 +1,1094 @@
+[
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt13143964",
+        "plex": {
+          "guid": "5f590e23449ca9003fd2a392",
+          "slug": "borat-subsequent-moviefilm"
+        },
+        "slug": "borat-subsequent-moviefilm-2020",
+        "tmdb": 740985,
+        "trakt": 581795
+      },
+      "year": 2020,
+      "title": "Borat Subsequent Moviefilm"
+    },
+    "rank": 32,
+    "id": 573391103,
+    "listed_at": "2021-02-21T04:05:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt6977338",
+        "plex": {
+          "guid": "5d777048fb0d55001f5eca94",
+          "slug": "good-boys"
+        },
+        "slug": "good-boys-2019",
+        "tmdb": 521777,
+        "trakt": 369915
+      },
+      "year": 2019,
+      "title": "Good Boys"
+    },
+    "rank": 14,
+    "id": 573388235,
+    "listed_at": "2021-02-21T03:56:13.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt2170439",
+        "plex": {
+          "guid": "5d776a60594b2b001e6bb119",
+          "slug": "horrible-bosses-2"
+        },
+        "slug": "horrible-bosses-2-2014",
+        "tmdb": 227159,
+        "trakt": 138919
+      },
+      "year": 2014,
+      "title": "Horrible Bosses 2"
+    },
+    "rank": 8,
+    "id": 573388069,
+    "listed_at": "2021-02-21T03:52:34.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt1245492",
+        "plex": {
+          "guid": "5d77692623d5a3001f4f63e3",
+          "slug": "this-is-the-end"
+        },
+        "slug": "this-is-the-end-2013",
+        "tmdb": 109414,
+        "trakt": 77325
+      },
+      "year": 2013,
+      "title": "This Is the End"
+    },
+    "rank": 16,
+    "id": 573388249,
+    "listed_at": "2021-02-21T03:56:32.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt1645170",
+        "plex": {
+          "guid": "5d7768bafb0d55001f518853",
+          "slug": "the-dictator"
+        },
+        "slug": "the-dictator-2012",
+        "tmdb": 76493,
+        "trakt": 56495
+      },
+      "year": 2012,
+      "title": "The Dictator"
+    },
+    "rank": 26,
+    "id": 573388852,
+    "listed_at": "2021-02-21T03:59:00.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt1077368",
+        "plex": {
+          "guid": "5d7768a2f617c900201568b2",
+          "slug": "dark-shadows"
+        },
+        "slug": "dark-shadows-2012",
+        "tmdb": 62213,
+        "trakt": 44680
+      },
+      "year": 2012,
+      "title": "Dark Shadows"
+    },
+    "rank": 56,
+    "id": 573419727,
+    "listed_at": "2021-02-21T05:49:48.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt1636826",
+        "plex": {
+          "guid": "5d77689a96b655001fdbca85",
+          "slug": "project-x-2012"
+        },
+        "slug": "project-x-2012",
+        "tmdb": 57214,
+        "trakt": 40847
+      },
+      "year": 2012,
+      "title": "Project X"
+    },
+    "rank": 13,
+    "id": 573388174,
+    "listed_at": "2021-02-21T03:55:02.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt1268799",
+        "plex": {
+          "guid": "5d7768970ea56a001e2a7953",
+          "slug": "a-very-harold-and-kumar-christmas"
+        },
+        "slug": "a-very-harold-kumar-christmas-2011",
+        "tmdb": 55465,
+        "trakt": 39440
+      },
+      "year": 2011,
+      "title": "A Very Harold & Kumar Christmas"
+    },
+    "rank": 51,
+    "id": 605585766,
+    "listed_at": "2021-07-14T06:44:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt1499658",
+        "plex": {
+          "guid": "5d77688f1999bc0020dc902d",
+          "slug": "horrible-bosses"
+        },
+        "slug": "horrible-bosses-2011",
+        "tmdb": 51540,
+        "trakt": 36171
+      },
+      "year": 2011,
+      "title": "Horrible Bosses"
+    },
+    "rank": 7,
+    "id": 573388057,
+    "listed_at": "2021-02-21T03:52:22.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt1284575",
+        "plex": {
+          "guid": "5d77689151dd69001fe0e1a2",
+          "slug": "bad-teacher"
+        },
+        "slug": "bad-teacher-2011",
+        "tmdb": 52449,
+        "trakt": 36940
+      },
+      "year": 2011,
+      "title": "Bad Teacher"
+    },
+    "rank": 52,
+    "id": 605585786,
+    "listed_at": "2021-07-14T06:45:00.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt1411697",
+        "plex": {
+          "guid": "5d776880ebdf2200209c0a56",
+          "slug": "the-hangover-part-ii"
+        },
+        "slug": "the-hangover-part-ii-2011",
+        "tmdb": 45243,
+        "trakt": 30842
+      },
+      "year": 2011,
+      "title": "The Hangover Part II"
+    },
+    "rank": 2,
+    "id": 573387835,
+    "listed_at": "2021-02-21T03:47:24.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt1240982",
+        "plex": {
+          "guid": "5d77686d103a2d001f571448",
+          "slug": "your-highness"
+        },
+        "slug": "your-highness-2011",
+        "tmdb": 38319,
+        "trakt": 24732
+      },
+      "year": 2011,
+      "title": "Your Highness"
+    },
+    "rank": 15,
+    "id": 573388243,
+    "listed_at": "2021-02-21T03:56:26.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt1231587",
+        "plex": {
+          "guid": "5d77684a7228e5001f1e1598",
+          "slug": "hot-tub-time-machine"
+        },
+        "slug": "hot-tub-time-machine-2010",
+        "tmdb": 23048,
+        "trakt": 13968
+      },
+      "year": 2010,
+      "title": "Hot Tub Time Machine"
+    },
+    "rank": 3,
+    "id": 573387865,
+    "listed_at": "2021-02-21T03:48:21.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt1119646",
+        "plex": {
+          "guid": "5d7768437e9a3c0020c6f5ed",
+          "slug": "the-hangover"
+        },
+        "slug": "the-hangover-2009",
+        "tmdb": 18785,
+        "trakt": 11534
+      },
+      "year": 2009,
+      "title": "The Hangover"
+    },
+    "rank": 1,
+    "id": 573387829,
+    "listed_at": "2021-02-21T03:47:03.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0910936",
+        "plex": {
+          "guid": "5d776834961905001eb93a9d",
+          "slug": "pineapple-express"
+        },
+        "slug": "pineapple-express-2008",
+        "tmdb": 10189,
+        "trakt": 5403
+      },
+      "year": 2008,
+      "title": "Pineapple Express"
+    },
+    "rank": 18,
+    "id": 573388261,
+    "listed_at": "2021-02-21T03:56:49.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0481536",
+        "plex": {
+          "guid": "5d77683a961905001eb950a2",
+          "slug": "harold-and-kumar-escape-from-guantanamo-bay"
+        },
+        "slug": "harold-kumar-escape-from-guantanamo-bay-2008",
+        "tmdb": 13335,
+        "trakt": 7824
+      },
+      "year": 2008,
+      "title": "Harold & Kumar Escape from Guantanamo Bay"
+    },
+    "rank": 54,
+    "id": 605588951,
+    "listed_at": "2021-07-14T07:10:53.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0829482",
+        "plex": {
+          "guid": "5d7768327228e5001f1de0bd",
+          "slug": "superbad"
+        },
+        "slug": "superbad-2007",
+        "tmdb": 8363,
+        "trakt": 4151
+      },
+      "year": 2007,
+      "title": "Superbad"
+    },
+    "rank": 12,
+    "id": 573388166,
+    "listed_at": "2021-02-21T03:54:53.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0387808",
+        "plex": {
+          "guid": "5d776831103a2d001f566b86",
+          "slug": "idiocracy"
+        },
+        "slug": "idiocracy-2006",
+        "tmdb": 7512,
+        "trakt": 3936
+      },
+      "year": 2006,
+      "title": "Idiocracy"
+    },
+    "rank": 39,
+    "id": 573396463,
+    "listed_at": "2021-02-21T04:27:33.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0405422",
+        "plex": {
+          "guid": "5d7768313c3c2a001fbcd1cf",
+          "slug": "the-40-year-old-virgin"
+        },
+        "slug": "the-40-year-old-virgin-2005",
+        "tmdb": 6957,
+        "trakt": 3778
+      },
+      "year": 2005,
+      "title": "The 40 Year Old Virgin"
+    },
+    "rank": 11,
+    "id": 573388157,
+    "listed_at": "2021-02-21T03:54:33.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0366551",
+        "plex": {
+          "guid": "5d7768367228e5001f1deba6",
+          "slug": "harold-and-kumar-go-to-white-castle"
+        },
+        "slug": "harold-kumar-go-to-white-castle-2004",
+        "tmdb": 11282,
+        "trakt": 6385
+      },
+      "year": 2004,
+      "title": "Harold & Kumar Go to White Castle"
+    },
+    "rank": 17,
+    "id": 573388256,
+    "listed_at": "2021-02-21T03:56:43.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0356150",
+        "plex": {
+          "guid": "5d77683385719b001f3a323a",
+          "slug": "eurotrip"
+        },
+        "slug": "eurotrip-2004",
+        "tmdb": 9352,
+        "trakt": 4644
+      },
+      "year": 2004,
+      "title": "EuroTrip"
+    },
+    "rank": 5,
+    "id": 573387898,
+    "listed_at": "2021-02-21T03:49:14.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0315327",
+        "plex": {
+          "guid": "5d7768254de0ee001fcc83ab",
+          "slug": "bruce-almighty"
+        },
+        "slug": "bruce-almighty-2003",
+        "tmdb": 310,
+        "trakt": 261
+      },
+      "year": 2003,
+      "title": "Bruce Almighty"
+    },
+    "rank": 25,
+    "id": 573388842,
+    "listed_at": "2021-02-21T03:58:51.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0302886",
+        "plex": {
+          "guid": "5d7768373c3c2a001fbcea01",
+          "slug": "old-school"
+        },
+        "slug": "old-school-2003",
+        "tmdb": 11635,
+        "trakt": 6711
+      },
+      "year": 2003,
+      "title": "Old School"
+    },
+    "rank": 6,
+    "id": 573387987,
+    "listed_at": "2021-02-21T03:50:49.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0266452",
+        "plex": {
+          "guid": "5d77683361141d001fb150f5",
+          "slug": "death-to-smoochy"
+        },
+        "slug": "death-to-smoochy-2002",
+        "tmdb": 9275,
+        "trakt": 4575
+      },
+      "year": 2002,
+      "title": "Death to Smoochy"
+    },
+    "rank": 36,
+    "id": 573395708,
+    "listed_at": "2021-02-21T04:22:29.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0198781",
+        "plex": {
+          "guid": "5d776826151a60001f24a9cf",
+          "slug": "monsters-inc"
+        },
+        "slug": "monsters-inc-2001",
+        "tmdb": 585,
+        "trakt": 464
+      },
+      "year": 2001,
+      "title": "Monsters, Inc."
+    },
+    "rank": 43,
+    "id": 573398524,
+    "listed_at": "2021-02-21T04:41:54.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0250687",
+        "plex": {
+          "guid": "5d7768336f4521001ea9bcab",
+          "slug": "rat-race"
+        },
+        "slug": "rat-race-2001",
+        "tmdb": 9896,
+        "trakt": 5130
+      },
+      "year": 2001,
+      "title": "Rat Race"
+    },
+    "rank": 30,
+    "id": 573388979,
+    "listed_at": "2021-02-21T04:00:17.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0120917",
+        "plex": {
+          "guid": "5d776837eb5d26001f1e129c",
+          "slug": "the-emperors-new-groove"
+        },
+        "slug": "the-emperor-s-new-groove-2000",
+        "tmdb": 11688,
+        "trakt": 6761
+      },
+      "year": 2000,
+      "title": "The Emperor's New Groove"
+    },
+    "rank": 44,
+    "id": 573398594,
+    "listed_at": "2021-02-21T04:42:39.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0212338",
+        "plex": {
+          "guid": "5d7768296f4521001ea99ac1",
+          "slug": "meet-the-parents"
+        },
+        "slug": "meet-the-parents-2000",
+        "tmdb": 1597,
+        "trakt": 1052
+      },
+      "year": 2000,
+      "title": "Meet the Parents"
+    },
+    "rank": 46,
+    "id": 573399662,
+    "listed_at": "2021-02-21T04:49:20.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0183505",
+        "plex": {
+          "guid": "5d77682b961905001eb921f3",
+          "slug": "me-myself-and-irene"
+        },
+        "slug": "me-myself-irene-2000",
+        "tmdb": 2123,
+        "trakt": 1470
+      },
+      "year": 2000,
+      "title": "Me, Myself & Irene"
+    },
+    "rank": 28,
+    "id": 573388963,
+    "listed_at": "2021-02-21T03:59:52.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0215129",
+        "plex": {
+          "guid": "5d77683285719b001f3a31e8",
+          "slug": "road-trip"
+        },
+        "slug": "road-trip-2000",
+        "tmdb": 9285,
+        "trakt": 4585
+      },
+      "year": 2000,
+      "title": "Road Trip"
+    },
+    "rank": 4,
+    "id": 573387891,
+    "listed_at": "2021-02-21T03:49:09.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0120655",
+        "plex": {
+          "guid": "5d77682aeb5d26001f1de295",
+          "slug": "dogma"
+        },
+        "slug": "dogma-1999",
+        "tmdb": 1832,
+        "trakt": 1212
+      },
+      "year": 1999,
+      "title": "Dogma"
+    },
+    "rank": 40,
+    "id": 573397669,
+    "listed_at": "2021-02-21T04:35:42.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0139239",
+        "plex": {
+          "guid": "5d776832961905001eb93578",
+          "slug": "go"
+        },
+        "slug": "go-1999",
+        "tmdb": 9430,
+        "trakt": 4719
+      },
+      "year": 1999,
+      "title": "Go"
+    },
+    "rank": 27,
+    "id": 573388864,
+    "listed_at": "2021-02-21T03:59:25.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0151804",
+        "plex": {
+          "guid": "5d776829961905001eb91cf5",
+          "slug": "office-space"
+        },
+        "slug": "office-space-1999",
+        "tmdb": 1542,
+        "trakt": 1002
+      },
+      "year": 1999,
+      "title": "Office Space"
+    },
+    "rank": 29,
+    "id": 573388969,
+    "listed_at": "2021-02-21T04:00:03.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0124198",
+        "plex": {
+          "guid": "5d9f34f906d220001feb3a64",
+          "slug": "very-bad-things"
+        },
+        "slug": "very-bad-things-1998",
+        "tmdb": 10029,
+        "trakt": 5254
+      },
+      "year": 1998,
+      "title": "Very Bad Things"
+    },
+    "rank": 53,
+    "id": 605587398,
+    "listed_at": "2021-07-14T07:05:00.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0118301",
+        "plex": {
+          "guid": "5d77683b54f42c001f8c5794",
+          "slug": "dead-man-on-campus"
+        },
+        "slug": "dead-man-on-campus-1998",
+        "tmdb": 14557,
+        "trakt": 8773
+      },
+      "year": 1998,
+      "title": "Dead Man on Campus"
+    },
+    "rank": 19,
+    "id": 573388271,
+    "listed_at": "2021-02-21T03:56:59.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0131857",
+        "plex": {
+          "guid": "5d77683b7228e5001f1df7ce",
+          "slug": "baseketball"
+        },
+        "slug": "baseketball-1998",
+        "tmdb": 14013,
+        "trakt": 8370
+      },
+      "year": 1998,
+      "title": "BASEketball"
+    },
+    "rank": 24,
+    "id": 573388831,
+    "listed_at": "2021-02-21T03:58:33.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0120741",
+        "plex": {
+          "guid": "5d7768338718ba001e3141cc",
+          "slug": "mafia-1998"
+        },
+        "slug": "jane-austen-s-mafia-1998",
+        "tmdb": 9835,
+        "trakt": 5090
+      },
+      "year": 1998,
+      "title": "Jane Austen's Mafia!"
+    },
+    "rank": 9,
+    "id": 573388085,
+    "listed_at": "2021-02-21T03:53:07.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0129387",
+        "plex": {
+          "guid": "5d776826999c64001ec2c52c",
+          "slug": "theres-something-about-mary"
+        },
+        "slug": "there-s-something-about-mary-1998",
+        "tmdb": 544,
+        "trakt": 427
+      },
+      "year": 1998,
+      "title": "There's Something About Mary"
+    },
+    "rank": 31,
+    "id": 573389684,
+    "listed_at": "2021-02-21T04:00:53.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0127723",
+        "plex": {
+          "guid": "5d9f351f06d220001feb44ea",
+          "slug": "cant-hardly-wait"
+        },
+        "slug": "can-t-hardly-wait-1998",
+        "tmdb": 15037,
+        "trakt": 9110
+      },
+      "year": 1998,
+      "title": "Can't Hardly Wait"
+    },
+    "rank": 10,
+    "id": 573388136,
+    "listed_at": "2021-02-21T03:54:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0120693",
+        "plex": {
+          "guid": "5d776833eb5d26001f1e029d",
+          "slug": "half-baked"
+        },
+        "slug": "half-baked-1998",
+        "tmdb": 9490,
+        "trakt": 4774
+      },
+      "year": 1998,
+      "title": "Half Baked"
+    },
+    "rank": 20,
+    "id": 573388760,
+    "listed_at": "2021-02-21T03:57:22.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0116531",
+        "plex": {
+          "guid": "5d7768334de0ee001fccaf96",
+          "slug": "high-school-high"
+        },
+        "slug": "high-school-high-1996",
+        "tmdb": 9308,
+        "trakt": 4607
+      },
+      "year": 1996,
+      "title": "High School High"
+    },
+    "rank": 42,
+    "id": 573397904,
+    "listed_at": "2021-02-21T04:38:40.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0116126",
+        "plex": {
+          "guid": "5d7768355af944001f1f9ef6",
+          "slug": "dont-be-a-menace-to-south-central-while-drinking-your-juice-in-the-hood"
+        },
+        "slug": "don-t-be-a-menace-to-south-central-while-drinking-your-juice-in-the-hood-1996",
+        "tmdb": 10607,
+        "trakt": 5782
+      },
+      "year": 1996,
+      "title": "Don't Be a Menace to South Central While Drinking Your Juice in the Hood"
+    },
+    "rank": 38,
+    "id": 573396046,
+    "listed_at": "2021-02-21T04:25:24.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0113118",
+        "plex": {
+          "guid": "5d7768352e80df001ebde5e5",
+          "slug": "friday"
+        },
+        "slug": "friday-1995",
+        "tmdb": 10634,
+        "trakt": 5808
+      },
+      "year": 1995,
+      "title": "Friday"
+    },
+    "rank": 37,
+    "id": 573396031,
+    "listed_at": "2021-02-21T04:25:08.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0110759",
+        "plex": {
+          "guid": "5d77683b7228e5001f1df927",
+          "slug": "pcu"
+        },
+        "slug": "pcu-1994",
+        "tmdb": 14425,
+        "trakt": 8672
+      },
+      "year": 1994,
+      "title": "PCU"
+    },
+    "rank": 41,
+    "id": 573397770,
+    "listed_at": "2021-02-21T04:37:53.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0107144",
+        "plex": {
+          "guid": "5d9f34f7d74e67002001fcf4",
+          "slug": "hot-shots-part-deux"
+        },
+        "slug": "hot-shots-part-deux-1993",
+        "tmdb": 9255,
+        "trakt": 4555
+      },
+      "year": 1993,
+      "title": "Hot Shots! Part Deux"
+    },
+    "rank": 48,
+    "id": 573399685,
+    "listed_at": "2021-02-21T04:49:47.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0102059",
+        "plex": {
+          "guid": "5d776833103a2d001f567348",
+          "slug": "hot-shots"
+        },
+        "slug": "hot-shots-1991",
+        "tmdb": 9595,
+        "trakt": 4871
+      },
+      "year": 1991,
+      "title": "Hot Shots!"
+    },
+    "rank": 47,
+    "id": 573399682,
+    "listed_at": "2021-02-21T04:49:43.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0098627",
+        "plex": {
+          "guid": "5d7768324de0ee001fccaae0",
+          "slug": "weekend-at-bernies"
+        },
+        "slug": "weekend-at-bernie-s-1989",
+        "tmdb": 8491,
+        "trakt": 4228
+      },
+      "year": 1989,
+      "title": "Weekend at Bernie's"
+    },
+    "rank": 35,
+    "id": 573395162,
+    "listed_at": "2021-02-21T04:19:20.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0095705",
+        "plex": {
+          "guid": "5d77686a61141d001fb1a37e",
+          "slug": "the-naked-gun-from-the-files-of-police-squad"
+        },
+        "slug": "the-naked-gun-from-the-files-of-police-squad-1988",
+        "tmdb": 37136,
+        "trakt": 23709
+      },
+      "year": 1988,
+      "title": "The Naked Gun: From the Files of Police Squad!"
+    },
+    "rank": 45,
+    "id": 573399653,
+    "listed_at": "2021-02-21T04:49:00.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0094898",
+        "plex": {
+          "guid": "5d776833e6d55c002040ca45",
+          "slug": "coming-to-america"
+        },
+        "slug": "coming-to-america-1988",
+        "tmdb": 9602,
+        "trakt": 4878
+      },
+      "year": 1988,
+      "title": "Coming to America"
+    },
+    "rank": 34,
+    "id": 573395151,
+    "listed_at": "2021-02-21T04:19:06.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0086960",
+        "plex": {
+          "guid": "5d7768248a7581001f12bc74",
+          "slug": "beverly-hills-cop"
+        },
+        "slug": "beverly-hills-cop-1984",
+        "tmdb": 90,
+        "trakt": 59
+      },
+      "year": 1984,
+      "title": "Beverly Hills Cop"
+    },
+    "rank": 55,
+    "id": 573418852,
+    "listed_at": "2021-02-21T05:47:52.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0087928",
+        "plex": {
+          "guid": "5d9f3dc2ca3253001ef32b76",
+          "slug": "police-academy"
+        },
+        "slug": "police-academy-1984",
+        "tmdb": 9336,
+        "trakt": 4630
+      },
+      "year": 1984,
+      "title": "Police Academy"
+    },
+    "rank": 33,
+    "id": 573395103,
+    "listed_at": "2021-02-21T04:17:26.000Z",
+    "notes": null
+  },
+  {
+    "type": "movie",
+    "movie": {
+      "ids": {
+        "imdb": "tt0080339",
+        "plex": {
+          "guid": "5d776827eb5d26001f1ddabb",
+          "slug": "airplane"
+        },
+        "slug": "airplane-1980",
+        "tmdb": 813,
+        "trakt": 656
+      },
+      "year": 1980,
+      "title": "Airplane!"
+    },
+    "rank": 21,
+    "id": 573388773,
+    "listed_at": "2021-02-21T03:57:37.000Z",
+    "notes": null
+  }
+]
