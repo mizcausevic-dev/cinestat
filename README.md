@@ -11,11 +11,9 @@ Built by **Mirza Causevic** as part of his professional portfolio.
 
 ---
 
-> **Live Demo:** [Deploying to Vercel soon...](https://task781.vercel.app) *(coming after push)*
+> Use Vercel or not.. I won't tell you what to do there. ;) 
 
 ---
-
-## ✨ Features
 
 ---
 
@@ -232,8 +230,6 @@ After pushing, go to GitHub → your repo → Settings → Pages (if needed) or 
 
 ## 🎯 Why This Project?
 
-This project demonstrates:
-
 - Modern React patterns (hooks, state management, TypeScript)
 - Professional UI/UX with Tailwind
 - Real-world features (drag & drop, persistence, animations)
@@ -261,12 +257,9 @@ MIT License — feel free to use and modify.
 
 ---
 
-**Built with ❤️ by Mirza Causevic**  
-[LinkedIn](https://linkedin.com/in/mirzacaus) • [GitHub](https://github.com/YOUR-USERNAME)
+**Built  by Miz Causevic**  
+[LinkedIn](https://linkedin.com/in/mirzacaus) • [GitHub](https://github.com/fknmiz) • [Skills](https://mizcausevic.com/skills/) 
 
----
-
-*This project is part of Mirza Causevic's Professional Skillset Portfolio*
 =======
 ## Data
 
@@ -284,4 +277,3 @@ All data files live in `src/data/` and contain entertainment metadata only:
 ## Notes
 
 This project uses personal entertainment metadata — titles, years, collection timestamps, and rankings. No internal architecture, security posture, or proprietary business data is exposed.
->>>>>>> c376c386f3fabc08e05ad9536f1d787ee74ba209
