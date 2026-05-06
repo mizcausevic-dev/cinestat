@@ -58,7 +58,7 @@ All data files live in `src/data/` — entertainment metadata only. No sensitive
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/fknmiz/cinestat.git
+git clone https://github.com/mizcausevic-dev/cinestat.git
 cd cinestat
 npm install
 ```
@@ -84,7 +84,7 @@ npm run preview
 
 1. Push this repo to GitHub ✅
 2. Go to [vercel.com](https://vercel.com) → **Add New Project**
-3. Select `fknmiz/cinestat` from the list
+3. Select `mizcausevic-dev/cinestat` from the list
 4. Vercel auto-detects Vite — no config changes needed
 5. Click **Deploy** — live in ~30 seconds
 
@@ -122,4 +122,4 @@ MIT — free to use and modify.
 ---
 
 **Built by Miz Causevic**
-[LinkedIn](https://linkedin.com/in/mirzacaus) · [GitHub](https://github.com/fknmiz) · [Portfolio](https://mizcausevic.com)
+[LinkedIn](https://linkedin.com/in/mirzacaus) · [GitHub](https://github.com/mizcausevic-dev) · [Portfolio](https://mizcausevic.com)
