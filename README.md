@@ -123,3 +123,7 @@ MIT — free to use and modify.
 
 **Built by Miz Causevic**
 [LinkedIn](https://linkedin.com/in/mirzacaus) · [GitHub](https://github.com/mizcausevic-dev) · [Portfolio](https://mizcausevic.com)
+
+---
+
+**Connect:** [LinkedIn](https://www.linkedin.com/in/mirzacausevic/) · [Kinetic Gain](https://kineticgain.com) · [Medium](https://medium.com/@mizcausevic/) · [Skills](https://mizcausevic.com/skills/)
